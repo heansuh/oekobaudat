@@ -1,4 +1,4 @@
-# MADS-MMS Portfolio project at FH Kiel with the ÖKOBAUDAT database on clustering
+# MADS-MMS Portfolio Project
 
 This is a portfolio project of MADS-MMS module at FH Kiel in the first semester. By making use of the clustering algorithms, I covered the insights behind the sustainable buildings' database from the ÖKOBAUDAT Database (https://www.oekobaudat.de).  
 
